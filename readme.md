@@ -25,3 +25,7 @@ npm start
 ```
 
 Go to `localhost:3000` to view the natours app.
+
+Special thanks to @`Jonas Schmedtmann` for this lovely nodejs project. I have learnt a lot from this project.Not only I learned some new skills , but also it gives me confidence to create some new projects and also refined my skills and the final credit goes to none other than the best online education platform `Udemy`.
+
+Go check it out his course on [Udemy](https://www.udemy.com).
